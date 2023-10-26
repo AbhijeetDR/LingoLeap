@@ -47,4 +47,4 @@ Explanation: Starting from any cell in the first column we cannot perform any mo
 
 - Continue this process for all cells in the first column.
 
-Once you've calculated the maximum number of moves for all starting cells in the first column, return the maximum value as the final answer, which represents the maximum number of moves that can be made from any starting cell in the first column.
+Once calculated the maximum number of moves for all starting cells in the first column, return the maximum value as the final answer, which represents the maximum number of moves that can be made from any starting cell in the first column.
